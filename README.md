@@ -1,4 +1,4 @@
-# Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
+# Ex.No: 08     MOVING AVERAGE MODEL AND EXPONENTIAL SMOOTHING
 
 ## AIM:
 To implement Moving Average Model and Exponential smoothing Using Python.
